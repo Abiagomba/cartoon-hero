@@ -18,6 +18,7 @@ header img{
     border-radius: 160px;
     width: 300px;
     border: 20px solid #660000;
+    box-sizing: border-box;
 }
 
 .content{
@@ -50,7 +51,7 @@ a{
 footer{
     margin-top: 20px;
     padding: 40px 20px;
-    background-color: #e6e6e6;
+    background-color: grey;
 }
 
 ul{
